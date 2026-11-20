@@ -1,0 +1,18 @@
+# virtual environment and caches
+.venv/
+__pycache__/
+*.pyc
+
+# datasets are downloaded automatically by torchvision (about 145 MB).
+# Anchored to the repo root so capstone_study_tip_generator/data/ is still tracked.
+/data/
+
+# saved GPT-2 models (about 475 MB each); regenerate by running the lab scripts
+*.safetensors
+**/study_tip_gpt2/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.claude/
