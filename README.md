@@ -5,10 +5,8 @@ Course code: ETMMGA304
 
 | | |
 |---|---|
-| Student | _your name here_ |
-| Roll number | _your roll number here_ |
-| Section / Semester | _your section and semester here_ |
-| Instructor | _instructor name here_ |
+| Student | Jitin Kumar Sengar |
+| Program | MCA, K.R. Mangalam University |
 
 This repository holds my work for the course laboratory manual: four lab experiments and one capstone project. Each experiment is in its own folder with the code, the saved outputs, and a README that explains the aim, the method, the results from the actual run, and short viva answers.
 
